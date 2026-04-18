@@ -10,6 +10,8 @@
 - Juan Pinheiro de Franca
 
 ---
+<img width="261" height="466" alt="image" src="https://github.com/user-attachments/assets/f89e742a-3cc5-42b1-b87f-b18f9fa5c111" />
+
 
 ## Visão Geral das Peças
 
@@ -109,6 +111,8 @@
 3. Verifique que todos os pinos estão firmes e nivelados
 4. O eixo deve ser encaixado no encaixe central e estar voltado para cima
 
+<img width="469" height="235" alt="image" src="https://github.com/user-attachments/assets/0c5a573a-fa66-4c39-8959-d6fd6bc437d4" />
+
 > **💡 Dica:** Verifique o alinhamento das engrenagens com pino para que as gavetas fiquem fechadas posteriormente no final da montagem.
 
 ---
@@ -116,6 +120,8 @@
 ### Passo 2 — Plataforma secundária
 
 1. Encaixe a plataforma secundária certificando que tudo está girando devidamente
+
+<img width="603" height="307" alt="image" src="https://github.com/user-attachments/assets/0de44ac3-0edf-4741-bcf0-2c0f19717ab9" />
 
 ---
 
@@ -126,6 +132,8 @@ Encaixe as 6 gavetas triangulares amarelas sobre a plataforma com engrenagens. C
 1. Posicione cada gaveta alinhada com um pino de borda
 2. Encaixe a parte traseira da gaveta no trilho da plataforma
 3. Verifique que cada gaveta desliza livremente sem travar
+
+<img width="596" height="304" alt="image" src="https://github.com/user-attachments/assets/44620c63-553b-4703-a6bb-770c47fd384a" />
 
 ---
 
@@ -145,6 +153,9 @@ Encaixe as 6 gavetas triangulares amarelas sobre a plataforma com engrenagens. C
 3. Gire a flor no **sentido horário** para **abrir** as gavetas
 4. Gire no **sentido anti-horário** para **fechar** as gavetas
 5. O mecanismo está correto quando todas as gavetas se movem de forma sincronizada
+
+<img width="333" height="595" alt="image" src="https://github.com/user-attachments/assets/f8ace668-acd6-41c5-8f01-330d1134c17c" />
+
 
 ---
 
